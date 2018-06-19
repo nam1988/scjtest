@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="testscj Table" language="en" table="x_testscj_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>testscj Table</label>
+            <language>en</language>
+            <name>x_testscj_table</name>
+            <plural>testscj Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2018-06-19 22:45:32</sys_created_on>
+            <sys_id>117657697dfe1700964fb45beba73971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>testscj Table</sys_name>
+            <sys_package display_value="testscj" source="x_testscj">017657697dfe1700964fb45beba73929</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testscj">017657697dfe1700964fb45beba73929</sys_scope>
+            <sys_update_name>sys_documentation_x_testscj_table__en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2018-06-19 22:45:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
